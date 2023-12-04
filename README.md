@@ -15,9 +15,8 @@ styles.css: The stylesheet file that defines the visual appearance of the form.
   <img width="400" alt="image" src="https://github.com/souri-droid/tribute/assets/70069572/8ce84c68-1adc-4f14-93f2-9a1a68f7e296">
 </div>
 
-# Live Preview
-
-Check out the live preview [here](https://souri-droid.github.io/tribute-page/){:target="_blank"}.
+# Preview
+Check out the live preview [here](https://souri-droid.github.io/job-application/){:target="_blank"}.
 
 ## Acknowledgments
 This project was created as part of the FreeCodeCamp certification program - Responsive Web Design.
