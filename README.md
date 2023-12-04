@@ -16,7 +16,7 @@ styles.css: The stylesheet file that defines the visual appearance of the form.
 </div>
 
 # Preview
-Check out the live preview [here](https://souri-droid.github.io/job-application/){:target="_blank"}.
+Check out the live preview [here](https://souri-droid.github.io/job-application/).
 
 ## Acknowledgments
 This project was created as part of the FreeCodeCamp certification program - Responsive Web Design.
