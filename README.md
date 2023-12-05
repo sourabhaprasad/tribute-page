@@ -5,9 +5,11 @@ Explore the incredible journey of Google and its visionary founders, Larry Page 
 ## Project Structure
 The project consists of the following files:
 
-index.html: The main HTML file containing the structure of the tribute page.
+index.html: The main HTML file containing the structure of the tribute page.<br>
 styles.css: The stylesheet file that defines the visual appearance of the form.
 
+# Preview
+Check out the live preview [here](https://souri-droid.github.io/tribute-page/).
 
 ## Screenshots 
 <div style="display: flex; justify-content: space-between;">
@@ -15,8 +17,6 @@ styles.css: The stylesheet file that defines the visual appearance of the form.
   <img width="400" alt="image" src="https://github.com/souri-droid/tribute/assets/70069572/8ce84c68-1adc-4f14-93f2-9a1a68f7e296">
 </div>
 
-# Preview
-Check out the live preview [here](https://souri-droid.github.io/tribute-page/).
 
 ## Acknowledgments
 This project was created as part of the FreeCodeCamp certification program - Responsive Web Design.
